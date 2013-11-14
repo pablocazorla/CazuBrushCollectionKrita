@@ -1,0 +1,10 @@
+Cazu Brush Collection for Krita
+
+Author: Pablo Cazorla
+E-mail: contact@pcazorla.com
+
+
+Last Version : 1.0
+Date: 10/04/2013
+
+Licence: Creative Commons (CC BY-SA 3.0). http://creativecommons.org/licenses/by-sa/3.0/
